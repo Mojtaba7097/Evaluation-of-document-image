@@ -1,1 +1,1 @@
-# Evaluation-of-document-image
+# Evaluation-of-document-image-blur
